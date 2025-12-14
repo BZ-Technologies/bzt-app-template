@@ -99,6 +99,12 @@ bzt-app-template/
 | `{category}` | `productivity` | Application category |
 | `{APP_CONFIG_KEY}` | `CALENDAR_API_KEY` | Environment variable |
 
+## Reference Implementations
+
+For more complex applications, refer to existing implementations:
+
+- **Training Scheduler**: See `bzt-architecture/TRAINING-SCHEDULER-REFERENCE.md` for a comprehensive reference implementation with payment processing, admin panels, and complex database schemas.
+
 ## Best Practices
 
 1. **Naming Convention**: Use lowercase, hyphenated names for app codes
