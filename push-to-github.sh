@@ -4,7 +4,7 @@
 
 set -e
 
-REPO_NAME="bzt-app-{app-code}"
+REPO_NAME="bzt-app-template"
 ORG="BZ-Technologies"
 REMOTE_URL="git@github.com:${ORG}/${REPO_NAME}.git"
 
